@@ -1,0 +1,15 @@
+.content{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(145, 170, 168);
+    padding: 20px;
+    width: 100%;
+}
+
+#display{
+    width: 100%;
+}
+
+#slider{
+    width: 100%;
+}
